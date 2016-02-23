@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ioanniscalvinio06calvgoog/ioanniscalvinio06calvgoog_0013.png"; bbox 0 0 5775 6850; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1249 2420 1614 2535">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1249 2420 1614 2535">
+     <span class='ocr_line' id='line_1_1' title="bbox 1249 2420 1614 2535; baseline -0.005 1"><span class='ocrx_word' id='word_1_1' title='bbox 1249 2420 1614 2535; x_wconf 84' lang='lat' dir='ltr'><strong>SERMONS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 578 3031 2438 3188">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 578 3031 2438 3188">
+     <span class='ocr_line' id='line_1_2' title="bbox 578 3031 2438 3188; baseline -0.006 1"><span class='ocrx_word' id='word_1_2' title='bbox 578 3051 700 3188; x_wconf 84' lang='lat' dir='ltr'>LA</span> <span class='ocrx_word' id='word_1_3' title='bbox 752 3049 1228 3187; x_wconf 76' lang='lat' dir='ltr'>PREMIERE</span> <span class='ocrx_word' id='word_1_4' title='bbox 1281 3049 1615 3187; x_wconf 80' lang='lat' dir='ltr'>EPITRE</span> <span class='ocrx_word' id='word_1_5' title='bbox 1668 3053 1730 3185; x_wconf 82' lang='grc' dir='ltr'><strong>Α</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1787 3031 2284 3186; x_wconf 76' lang='grc' dir='ltr'><strong>ΤΙΜΟΤΗΕΕ.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2427 3056 2438 3177; x_wconf 63' lang='lat' dir='ltr'>&#39;ss</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2892 6850">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2892 6850">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2892 6850; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 2892 6850; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
